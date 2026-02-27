@@ -1,0 +1,301 @@
+Project ID,Start Date,End Date,Priority,Task ID,Task Name,Task Status,Assigned To,Hours Spent,Actual Cost,Progress
+P001,21/07/2024,08/08/2024,Medium,T001,Task 001 of Renovation of a School Project 001,In Progress,Bob,12,0,0.24
+P001,21/07/2024,12/08/2024,High,T002,Task 002 of Renovation of a School Project 001,In Progress,Charlie,4,0,0.56
+P001,21/07/2024,10/08/2024,High,T003,Task 003 of Renovation of a School Project 001,Completed,Charlie,5,1011,1
+P002,04/06/2024,12/07/2025,High,T001,Task 001 of Innovation of a Classroom Project 002,Pending,Charlie,24,0,0.33
+P002,04/06/2024,26/06/2025,Medium,T002,Task 002 of Innovation of a Classroom Project 002,Pending,Charlie,26,0,0.32
+P002,04/06/2024,25/03/2025,Low,T003,Task 003 of Innovation of a Classroom Project 002,In Progress,Alice,28,0,0.29
+P003,20/07/2024,22/08/2024,Low,T001,Task 001 of Construction of a Hospital Wing Project 003,Completed,Grace,7,7717,1
+P003,20/07/2024,25/09/2024,Medium,T002,Task 002 of Construction of a Hospital Wing Project 003,Completed,Frank,23,637,1
+P003,20/07/2024,22/08/2024,Medium,T003,Task 003 of Construction of a Hospital Wing Project 003,Completed,Grace,13,8502,1
+P004,25/04/2024,06/05/2024,Medium,T001,Task 001 of Road Expansion Project 004,Completed,Frank,28,3369,1
+P004,25/04/2024,05/05/2024,High,T002,Task 002 of Road Expansion Project 004,In Progress,Charlie,26,0,0.99
+P004,25/04/2024,10/05/2024,Medium,T003,Task 003 of Road Expansion Project 004,Pending,Charlie,18,0,0.74
+P005,30/06/2024,31/07/2025,Medium,T001,Task 001 of Bridge Maintenance Project 005,Pending,Charlie,18,0,0.78
+P005,30/06/2024,02/08/2024,Medium,T002,Task 002 of Bridge Maintenance Project 005,Completed,Frank,7,2643,1
+P005,30/06/2024,30/06/2025,High,T003,Task 003 of Bridge Maintenance Project 005,Pending,Grace,0,0,0.04
+P006,09/08/2024,11/09/2024,Low,T001,Task 001 of Office Building Renovation Project 006,Completed,Alice,9,2739,1
+P006,09/08/2024,11/09/2024,Medium,T002,Task 002 of Office Building Renovation Project 006,Completed,Frank,40,6402,1
+P006,09/08/2024,20/02/2025,High,T003,Task 003 of Office Building Renovation Project 006,In Progress,Charlie,40,0,0.07
+P007,06/08/2024,17/11/2024,High,T001,Task 001 of Apartment Complex Development Project 007,Pending,Ivy,32,0,0.62
+P007,06/08/2024,29/11/2024,Medium,T002,Task 002 of Apartment Complex Development Project 007,Pending,Grace,25,0,0.85
+P007,06/08/2024,17/11/2024,Low,T003,Task 003 of Apartment Complex Development Project 007,Pending,Ivy,10,0,0.92
+P008,17/04/2024,13/09/2024,Medium,T001,Task 001 of Commercial Center Construction Project 008,Pending,Alice,17,0,0.59
+P008,17/04/2024,05/11/2024,Low,T002,Task 002 of Commercial Center Construction Project 008,Pending,Charlie,21,0,0.26
+P008,17/04/2024,19/10/2024,High,T003,Task 003 of Commercial Center Construction Project 008,Pending,Charlie,7,0,0.45
+P009,27/04/2024,28/04/2025,High,T001,Task 001 of Highway Reconstruction Project 009,Pending,Charlie,35,0,0.36
+P009,27/04/2024,01/06/2025,Medium,T002,Task 002 of Highway Reconstruction Project 009,Pending,Ivy,2,0,0.88
+P009,27/04/2024,26/05/2025,Low,T003,Task 003 of Highway Reconstruction Project 009,Pending,Charlie,26,0,0.97
+P010,14/02/2024,15/06/2024,High,T001,Task 001 of Airport Expansion Project 010,Pending,Grace,32,4850,0.1
+P010,14/02/2024,08/06/2024,High,T002,Task 002 of Airport Expansion Project 010,Pending,Alice,16,0,0.7
+P010,14/02/2024,26/05/2024,Low,T003,Task 003 of Airport Expansion Project 010,Pending,Charlie,11,0,0.6
+P011,08/05/2024,28/07/2024,High,T001,Task 001 of Shopping Mall Renovation Project 011,In Progress,Eve,15,0,0.64
+P011,08/05/2024,19/08/2024,High,T002,Task 002 of Shopping Mall Renovation Project 011,In Progress,Eve,40,0,0.44
+P011,08/05/2024,01/08/2024,High,T003,Task 003 of Shopping Mall Renovation Project 011,Pending,Alice,1,0,0.02
+P012,27/01/2024,29/02/2024,High,T001,Task 001 of University Dormitory Construction Project 012,Completed,Frank,15,1679,1
+P012,27/01/2024,29/02/2024,High,T002,Task 002 of University Dormitory Construction Project 012,Completed,Bob,40,8464,1
+P012,27/01/2024,27/06/2025,Medium,T003,Task 003 of University Dormitory Construction Project 012,Pending,Alice,18,0,0.98
+P013,09/02/2024,24/08/2024,Medium,T001,Task 001 of Sports Stadium Upgrade Project 013,Completed,Alice,12,9379,1
+P013,09/02/2024,06/07/2024,Medium,T002,Task 002 of Sports Stadium Upgrade Project 013,In Progress,Bob,38,0,0.28
+P013,09/02/2024,28/07/2024,Medium,T003,Task 003 of Sports Stadium Upgrade Project 013,In Progress,Alice,6,0,0.55
+P014,30/07/2024,20/12/2024,Low,T001,Task 001 of Public Library Renovation Project 014,In Progress,Grace,31,0,0.1
+P014,30/07/2024,30/01/2025,Low,T002,Task 002 of Public Library Renovation Project 014,Pending,Charlie,8,0,0.82
+P014,30/07/2024,29/12/2024,Medium,T003,Task 003 of Public Library Renovation Project 014,Pending,Charlie,6,0,0.22
+P015,17/03/2024,19/04/2024,High,T001,Task 001 of Building a Park Project 015,Completed,Ivy,8,4608,1
+P015,17/03/2024,19/04/2024,Medium,T002,Task 002 of Building a Park Project 015,Completed,Charlie,4,528,1
+P015,17/03/2024,19/04/2024,High,T003,Task 003 of Building a Park Project 015,Completed,Bob,22,5232,1
+P016,18/02/2024,25/09/2024,Medium,T001,Task 001 of Renovation of a School Project 016,Completed,Bob,5,3610,1
+P016,18/02/2024,22/10/2024,High,T002,Task 002 of Renovation of a School Project 016,Pending,Eve,27,0,0.38
+P016,18/02/2024,15/09/2024,Medium,T003,Task 003 of Renovation of a School Project 016,Pending,Eve,25,0,0.55
+P017,02/04/2024,25/10/2024,Low,T001,Task 001 of Innovation of a Classroom Project 017,Pending,Eve,40,0,0.87
+P017,02/04/2024,23/09/2024,High,T002,Task 002 of Innovation of a Classroom Project 017,Completed,Charlie,34,5481,1
+P017,02/04/2024,14/10/2024,High,T003,Task 003 of Innovation of a Classroom Project 017,In Progress,Alice,18,0,0.62
+P018,09/02/2024,05/03/2024,Medium,T001,Task 001 of Construction of a Hospital Wing Project 018,In Progress,Grace,26,0,0.66
+P018,09/02/2024,01/03/2024,Medium,T002,Task 002 of Construction of a Hospital Wing Project 018,In Progress,Grace,37,0,0.54
+P018,09/02/2024,25/02/2024,Medium,T003,Task 003 of Construction of a Hospital Wing Project 018,Pending,Grace,7,0,0.2
+P019,10/06/2024,30/12/2024,High,T001,Task 001 of Road Expansion Project 019,Pending,Grace,11,0,0.61
+P019,10/06/2024,25/09/2024,Medium,T002,Task 002 of Road Expansion Project 019,Completed,Ivy,1,7263,1
+P019,10/06/2024,24/12/2024,Medium,T003,Task 003 of Road Expansion Project 019,Pending,Charlie,13,0,0.46
+P020,10/04/2024,03/07/2024,Medium,T001,Task 001 of Bridge Maintenance Project 020,Completed,Eve,18,7526,1
+P020,10/04/2024,02/08/2024,High,T002,Task 002 of Bridge Maintenance Project 020,In Progress,Grace,36,0,0.84
+P020,10/04/2024,02/07/2024,High,T003,Task 003 of Bridge Maintenance Project 020,Pending,Grace,24,0,0.11
+P021,21/03/2024,15/12/2024,High,T001,Task 001 of Office Building Renovation Project 021,In Progress,Alice,26,0,0.43
+P021,21/03/2024,25/09/2024,High,T002,Task 002 of Office Building Renovation Project 021,Completed,Frank,21,2091,1
+P021,21/03/2024,20/09/2024,High,T003,Task 003 of Office Building Renovation Project 021,Completed,Ivy,15,7940,1
+P022,09/01/2024,11/04/2024,High,T001,Task 001 of Apartment Complex Development Project 022,In Progress,Ivy,6,0,0.68
+P022,09/01/2024,28/04/2024,Medium,T002,Task 002 of Apartment Complex Development Project 022,In Progress,Grace,7,0,0.28
+P022,09/01/2024,24/04/2024,High,T003,Task 003 of Apartment Complex Development Project 022,In Progress,Ivy,18,2183,0.77
+P023,04/01/2024,18/05/2024,High,T001,Task 001 of Commercial Center Construction Project 023,Pending,Alice,17,0,0.45
+P023,04/01/2024,01/06/2024,Medium,T002,Task 002 of Commercial Center Construction Project 023,Pending,Charlie,27,0,0.02
+P023,04/01/2024,10/04/2024,Low,T003,Task 003 of Commercial Center Construction Project 023,In Progress,Charlie,19,0,0.45
+P024,16/08/2024,29/08/2024,Medium,T001,Task 001 of Highway Reconstruction Project 024,In Progress,Charlie,1,0,0.05
+P024,16/08/2024,04/09/2024,Low,T002,Task 002 of Highway Reconstruction Project 024,Pending,Ivy,1,0,0.75
+P024,16/08/2024,01/09/2024,Medium,T003,Task 003 of Highway Reconstruction Project 024,Completed,Eve,24,8659,1
+P025,05/05/2024,20/07/2024,High,T001,Task 001 of Airport Expansion Project 025,Completed,Alice,37,8487,1
+P025,05/05/2024,17/07/2024,Low,T002,Task 002 of Airport Expansion Project 025,In Progress,David,10,0,0.72
+P025,05/05/2024,03/07/2024,Medium,T003,Task 003 of Airport Expansion Project 025,In Progress,Charlie,16,0,0.5
+P026,08/07/2024,30/04/2025,Low,T001,Task 001 of Shopping Mall Renovation Project 026,In Progress,Eve,21,0,0.1
+P026,08/07/2024,10/08/2024,Medium,T002,Task 002 of Shopping Mall Renovation Project 026,Completed,Eve,34,8002,1
+P026,08/07/2024,06/04/2025,High,T003,Task 003 of Shopping Mall Renovation Project 026,Pending,Alice,3,0,0.82
+P027,03/01/2024,28/12/2024,High,T001,Task 001 of University Dormitory Construction Project 027,In Progress,Frank,35,0,0.84
+P027,03/01/2024,22/03/2025,Low,T002,Task 002 of University Dormitory Construction Project 027,In Progress,Bob,7,4190,1
+P027,03/01/2024,19/01/2025,Medium,T003,Task 003 of University Dormitory Construction Project 027,In Progress,Alice,30,0,0.19
+P028,25/07/2024,19/01/2025,Medium,T001,Task 001 of Sports Stadium Upgrade Project 028,Pending,Alice,22,0,0.31
+P028,25/07/2024,28/05/2025,Medium,T002,Task 002 of Sports Stadium Upgrade Project 028,Pending,Bob,16,0,0.78
+P028,25/07/2024,16/01/2025,Low,T003,Task 003 of Sports Stadium Upgrade Project 028,Pending,David,23,0,0.98
+P029,10/04/2024,13/05/2024,Low,T001,Task 001 of Public Library Renovation Project 029,Completed,Grace,33,3235,1
+P029,10/04/2024,21/12/2024,High,T002,Task 002 of Public Library Renovation Project 029,Pending,Charlie,30,0,0.15
+P029,10/04/2024,23/01/2025,High,T003,Task 003 of Public Library Renovation Project 029,Pending,Charlie,22,0,0.4
+P030,16/07/2024,29/07/2024,High,T001,Task 001 of Building a Park Project 030,Pending,Ivy,33,0,0.79
+P030,16/07/2024,29/07/2024,High,T002,Task 002 of Building a Park Project 030,Pending,Charlie,1,0,0.28
+P030,16/07/2024,29/07/2024,High,T003,Task 003 of Building a Park Project 030,In Progress,Bob,16,0,0.07
+P031,19/03/2024,09/06/2024,High,T001,Task 001 of Renovation of a School Project 031,In Progress,Bob,2,0,0.45
+P031,19/03/2024,06/06/2024,High,T002,Task 002 of Renovation of a School Project 031,In Progress,Eve,11,0,0.79
+P031,19/03/2024,03/06/2024,Medium,T003,Task 003 of Renovation of a School Project 031,Completed,Eve,5,3595,1
+P032,02/05/2024,26/02/2025,High,T001,Task 001 of Innovation of a Classroom Project 032,In Progress,Eve,12,0,0.54
+P032,02/05/2024,16/04/2025,Medium,T002,Task 002 of Innovation of a Classroom Project 032,Pending,Charlie,4,0,0.39
+P032,02/05/2024,24/03/2025,Low,T003,Task 003 of Innovation of a Classroom Project 032,In Progress,David,33,0,0.79
+P033,15/05/2024,25/09/2024,Low,T001,Task 001 of Construction of a Hospital Wing Project 033,Completed,David,4,4256,1
+P033,15/05/2024,18/10/2024,High,T002,Task 002 of Construction of a Hospital Wing Project 033,In Progress,Grace,10,0,0.71
+P033,15/05/2024,23/09/2024,High,T003,Task 003 of Construction of a Hospital Wing Project 033,Completed,David,4,7140,1
+P034,13/06/2024,01/09/2024,High,T001,Task 001 of Road Expansion Project 034,Pending,Grace,14,0,0.47
+P034,13/06/2024,17/08/2024,High,T002,Task 002 of Road Expansion Project 034,Completed,Ivy,22,5436,1
+P034,13/06/2024,21/08/2024,High,T003,Task 003 of Road Expansion Project 034,In Progress,Charlie,32,0,0.68
+P035,28/06/2024,31/07/2024,Medium,T001,Task 001 of Bridge Maintenance Project 035,Completed,Eve,14,7026,1
+P035,28/06/2024,31/07/2024,Low,T002,Task 002 of Bridge Maintenance Project 035,Completed,Grace,11,6528,1
+P035,28/06/2024,26/04/2025,High,T003,Task 003 of Bridge Maintenance Project 035,Pending,David,40,0,0.29
+P036,26/03/2024,10/07/2024,High,T001,Task 001 of Office Building Renovation Project 036,In Progress,Alice,8,0,0.79
+P036,26/03/2024,29/07/2024,Medium,T002,Task 002 of Office Building Renovation Project 036,Pending,Frank,16,0,0.64
+P036,26/03/2024,28/06/2024,High,T003,Task 003 of Office Building Renovation Project 036,Completed,Ivy,32,3841,1
+P037,16/01/2024,31/07/2024,Medium,T001,Task 001 of Apartment Complex Development Project 037,In Progress,Ivy,12,0,0.09
+P037,16/01/2024,25/05/2024,High,T002,Task 002 of Apartment Complex Development Project 037,Completed,Grace,15,1494,1
+P037,16/01/2024,13/06/2024,High,T003,Task 003 of Apartment Complex Development Project 037,Pending,Ivy,2,0,0.33
+P038,15/01/2024,01/03/2024,Medium,T001,Task 001 of Commercial Center Construction Project 038,Pending,Alice,14,0,0.93
+P038,15/01/2024,19/03/2024,Low,T002,Task 002 of Commercial Center Construction Project 038,Completed,Charlie,38,8463,1
+P038,15/01/2024,04/03/2024,High,T003,Task 003 of Commercial Center Construction Project 038,In Progress,Charlie,32,0,0.21
+P039,25/01/2024,23/03/2024,High,T001,Task 001 of Highway Reconstruction Project 039,Completed,Charlie,39,4818,1
+P039,25/01/2024,31/03/2024,High,T002,Task 002 of Highway Reconstruction Project 039,Pending,Ivy,2,0,0.24
+P039,25/01/2024,03/04/2024,Medium,T003,Task 003 of Highway Reconstruction Project 039,Completed,Eve,6,2824,1
+P040,26/01/2024,25/09/2024,Medium,T001,Task 001 of Airport Expansion Project 040,Pending,David,21,0,0.24
+P040,26/01/2024,29/07/2024,Medium,T002,Task 002 of Airport Expansion Project 040,In Progress,David,21,0,0.29
+P040,26/01/2024,14/08/2024,High,T003,Task 003 of Airport Expansion Project 040,Pending,Charlie,21,0,0.54
+P041,17/03/2024,21/03/2024,High,T001,Task 001 of Shopping Mall Renovation Project 041,Completed,Eve,32,3514,1
+P041,17/03/2024,21/03/2024,Medium,T002,Task 002 of Shopping Mall Renovation Project 041,Pending,Eve,30,0,0.93
+P041,17/03/2024,21/03/2024,Medium,T003,Task 003 of Shopping Mall Renovation Project 041,In Progress,Alice,28,0,0.8
+P042,31/01/2024,29/05/2024,High,T001,Task 001 of University Dormitory Construction Project 042,In Progress,Frank,32,0,0.05
+P042,31/01/2024,30/07/2024,High,T002,Task 002 of University Dormitory Construction Project 042,Pending,Bob,7,0,0.36
+P042,31/01/2024,02/08/2024,Medium,T003,Task 003 of University Dormitory Construction Project 042,Pending,Alice,29,0,0.66
+P043,05/01/2024,02/06/2024,High,T001,Task 001 of Sports Stadium Upgrade Project 043,In Progress,Alice,35,0,0.28
+P043,05/01/2024,12/05/2024,High,T002,Task 002 of Sports Stadium Upgrade Project 043,Completed,Bob,6,6569,1
+P043,05/01/2024,23/06/2024,High,T003,Task 003 of Sports Stadium Upgrade Project 043,Completed,David,19,2168,1
+P044,05/04/2024,30/07/2024,High,T001,Task 001 of Public Library Renovation Project 044,Pending,Grace,34,0,0.54
+P044,05/04/2024,18/09/2024,Low,T002,Task 002 of Public Library Renovation Project 044,Completed,Charlie,8,4482,1
+P044,05/04/2024,14/09/2024,High,T003,Task 003 of Public Library Renovation Project 044,In Progress,Charlie,30,0,0.06
+P045,11/06/2024,14/07/2024,Medium,T001,Task 001 of Building a Park Project 045,Completed,Ivy,25,3361,1
+P045,11/06/2024,25/02/2025,High,T002,Task 002 of Building a Park Project 045,In Progress,Charlie,39,0,0.55
+P045,11/06/2024,14/07/2024,Low,T003,Task 003 of Building a Park Project 045,Completed,Bob,39,2425,1
+P046,13/06/2024,16/06/2024,High,T001,Task 001 of Renovation of a School Project 046,In Progress,Bob,39,0,0.51
+P046,13/06/2024,16/06/2024,Medium,T002,Task 002 of Renovation of a School Project 046,Pending,Eve,25,0,0.43
+P046,13/06/2024,18/06/2024,High,T003,Task 003 of Renovation of a School Project 046,In Progress,Eve,11,0,0.18
+P047,27/06/2024,30/07/2024,High,T001,Task 001 of Innovation of a Classroom Project 047,Completed,Eve,36,2262,1
+P047,27/06/2024,09/01/2025,High,T002,Task 002 of Innovation of a Classroom Project 047,In Progress,Charlie,24,0,0.68
+P047,27/06/2024,25/09/2024,High,T003,Task 003 of Innovation of a Classroom Project 047,Completed,David,18,8655,1
+P048,09/06/2024,15/12/2024,High,T001,Task 001 of Construction of a Hospital Wing Project 048,In Progress,David,35,0,0.49
+P048,09/06/2024,31/10/2024,Low,T002,Task 002 of Construction of a Hospital Wing Project 048,Pending,Grace,14,0,0.96
+P048,09/06/2024,02/11/2024,Medium,T003,Task 003 of Construction of a Hospital Wing Project 048,In Progress,David,4,0,0.97
+P049,02/07/2024,11/08/2024,Medium,T001,Task 001 of Road Expansion Project 049,Completed,Grace,20,2196,1
+P049,02/07/2024,13/08/2024,Low,T002,Task 002 of Road Expansion Project 049,Pending,Ivy,35,0,0.44
+P049,02/07/2024,23/08/2024,Medium,T003,Task 003 of Road Expansion Project 049,Pending,Charlie,8,0,0.76
+P050,12/06/2024,22/07/2024,High,T001,Task 001 of Bridge Maintenance Project 050,In Progress,Eve,38,0,0.71
+P050,12/06/2024,25/07/2024,High,T002,Task 002 of Bridge Maintenance Project 050,Completed,Grace,40,1005,1
+P050,12/06/2024,31/07/2024,High,T003,Task 003 of Bridge Maintenance Project 050,In Progress,David,18,0,0.09
+P051,23/03/2024,12/12/2024,Low,T001,Task 001 of Office Building Renovation Project 051,Pending,Alice,19,0,0.03
+P051,23/03/2024,25/09/2024,High,T002,Task 002 of Office Building Renovation Project 051,Completed,Frank,27,3074,1
+P051,23/03/2024,21/10/2024,High,T003,Task 003 of Office Building Renovation Project 051,In Progress,Ivy,12,0,0.41
+P052,27/05/2024,27/07/2025,Low,T001,Task 001 of Apartment Complex Development Project 052,In Progress,Ivy,19,9104,0.88
+P052,27/05/2024,11/06/2025,Low,T002,Task 002 of Apartment Complex Development Project 052,Pending,Grace,14,0,0.19
+P052,27/05/2024,22/08/2025,High,T003,Task 003 of Apartment Complex Development Project 052,In Progress,Ivy,9,0,0.63
+P053,18/06/2024,27/11/2024,Low,T001,Task 001 of Commercial Center Construction Project 053,In Progress,Alice,3,0,0.48
+P053,18/06/2024,21/10/2024,High,T002,Task 002 of Commercial Center Construction Project 053,Pending,Charlie,21,0,0.45
+P053,18/06/2024,07/11/2024,High,T003,Task 003 of Commercial Center Construction Project 053,Pending,Charlie,6,0,0.66
+P054,15/04/2024,26/12/2024,High,T001,Task 001 of Highway Reconstruction Project 054,Pending,Charlie,25,0,0.95
+P054,15/04/2024,06/03/2025,High,T002,Task 002 of Highway Reconstruction Project 054,Pending,Ivy,33,0,0.32
+P054,15/04/2024,29/04/2025,Low,T003,Task 003 of Highway Reconstruction Project 054,In Progress,Eve,16,0,0.75
+P055,28/08/2024,21/04/2025,High,T001,Task 001 of Airport Expansion Project 055,In Progress,David,17,0,0.36
+P055,28/08/2024,28/08/2025,High,T002,Task 002 of Airport Expansion Project 055,Pending,David,29,0,0.17
+P055,28/08/2024,05/09/2025,High,T003,Task 003 of Airport Expansion Project 055,In Progress,Alice,27,0,0.09
+P056,15/08/2024,25/09/2024,High,T001,Task 001 of Shopping Mall Renovation Project 056,Completed,Eve,25,3528,1
+P056,15/08/2024,02/11/2024,Low,T002,Task 002 of Shopping Mall Renovation Project 056,In Progress,Eve,23,0,0.08
+P056,15/08/2024,04/11/2024,High,T003,Task 003 of Shopping Mall Renovation Project 056,In Progress,Alice,40,0,0.19
+P057,23/03/2024,15/06/2025,Medium,T001,Task 001 of University Dormitory Construction Project 057,In Progress,Frank,20,0,0.15
+P057,23/03/2024,25/04/2024,High,T002,Task 002 of University Dormitory Construction Project 057,Completed,Bob,6,6621,1
+P057,23/03/2024,29/12/2024,Low,T003,Task 003 of University Dormitory Construction Project 057,In Progress,Alice,28,0,0.66
+P058,24/07/2024,26/08/2024,High,T001,Task 001 of Sports Stadium Upgrade Project 058,Completed,Alice,20,8655,1
+P058,24/07/2024,04/09/2025,Low,T002,Task 002 of Sports Stadium Upgrade Project 058,Pending,Bob,10,0,0.99
+P058,24/07/2024,06/07/2025,Low,T003,Task 003 of Sports Stadium Upgrade Project 058,Pending,David,3,0,0.93
+P059,08/02/2024,31/08/2024,High,T001,Task 001 of Public Library Renovation Project 059,Pending,Grace,2,0,0.47
+P059,08/02/2024,24/07/2024,High,T002,Task 002 of Public Library Renovation Project 059,Completed,Alice,34,8962,1
+P059,08/02/2024,13/07/2024,High,T003,Task 003 of Public Library Renovation Project 059,Completed,Charlie,33,4897,1
+P060,04/07/2024,16/11/2024,Medium,T001,Task 001 of Building a Park Project 060,Pending,Ivy,8,0,0.44
+P060,04/07/2024,25/09/2024,High,T002,Task 002 of Building a Park Project 060,Completed,Alice,5,8788,1
+P060,04/07/2024,26/10/2024,High,T003,Task 003 of Building a Park Project 060,In Progress,Bob,34,0,0.37
+P061,14/06/2024,05/05/2025,Low,T001,Task 001 of Renovation of a School Project 061,Pending,Bob,31,0,0.84
+P061,14/06/2024,21/05/2025,Medium,T002,Task 002 of Renovation of a School Project 061,In Progress,Eve,34,0,0.25
+P061,14/06/2024,07/09/2025,Medium,T003,Task 003 of Renovation of a School Project 061,In Progress,Eve,36,0,0
+P062,27/07/2024,24/03/2025,High,T001,Task 001 of Innovation of a Classroom Project 062,Pending,Eve,11,0,0.11
+P062,27/07/2024,25/09/2024,High,T002,Task 002 of Innovation of a Classroom Project 062,Completed,Charlie,16,3081,1
+P062,27/07/2024,22/02/2025,High,T003,Task 003 of Innovation of a Classroom Project 062,Pending,David,38,0,0.15
+P063,16/07/2024,07/01/2025,High,T001,Task 001 of Construction of a Hospital Wing Project 063,In Progress,David,5,0,0.55
+P063,16/07/2024,18/08/2024,High,T002,Task 002 of Construction of a Hospital Wing Project 063,Completed,Grace,31,6945,1
+P063,16/07/2024,11/04/2025,Low,T003,Task 003 of Construction of a Hospital Wing Project 063,In Progress,David,2,0,0.68
+P064,22/06/2024,25/09/2024,Low,T001,Task 001 of Road Expansion Project 064,Completed,Grace,30,5315,1
+P064,22/06/2024,25/07/2024,Medium,T002,Task 002 of Road Expansion Project 064,Completed,Ivy,6,8751,1
+P064,22/06/2024,25/09/2024,High,T003,Task 003 of Road Expansion Project 064,Completed,Charlie,40,9025,1
+P065,06/01/2024,08/02/2024,High,T001,Task 001 of Bridge Maintenance Project 065,Completed,Eve,18,2142,1
+P065,06/01/2024,25/10/2024,Medium,T002,Task 002 of Bridge Maintenance Project 065,In Progress,Grace,26,0,0.41
+P065,06/01/2024,30/09/2024,High,T003,Task 003 of Bridge Maintenance Project 065,Pending,Alice,26,0,0.6
+P066,04/05/2024,23/11/2024,High,T001,Task 001 of Office Building Renovation Project 066,In Progress,Alice,32,0,0.53
+P066,04/05/2024,06/11/2024,High,T002,Task 002 of Office Building Renovation Project 066,Pending,Frank,20,0,0.55
+P066,04/05/2024,13/09/2024,Medium,T003,Task 003 of Office Building Renovation Project 066,Pending,Ivy,1,0,0.61
+P067,30/01/2024,12/01/2025,Low,T001,Task 001 of Apartment Complex Development Project 067,In Progress,Ivy,10,0,0.04
+P067,30/01/2024,26/12/2024,Medium,T002,Task 002 of Apartment Complex Development Project 067,In Progress,Grace,4,0,0.71
+P067,30/01/2024,03/03/2024,High,T003,Task 003 of Apartment Complex Development Project 067,Completed,Ivy,8,1984,1
+P068,30/01/2024,28/05/2025,Low,T001,Task 001 of Commercial Center Construction Project 068,Pending,Alice,28,0,0.48
+P068,30/01/2024,13/02/2025,Low,T002,Task 002 of Commercial Center Construction Project 068,Pending,Charlie,32,0,0.93
+P068,30/01/2024,03/03/2024,High,T003,Task 003 of Commercial Center Construction Project 068,Completed,Charlie,8,9477,1
+P069,25/02/2024,01/03/2025,High,T001,Task 001 of Highway Reconstruction Project 069,Pending,Charlie,16,0,0.28
+P069,25/02/2024,14/08/2025,High,T002,Task 002 of Highway Reconstruction Project 069,In Progress,Ivy,36,0,0.13
+P069,25/02/2024,08/08/2025,Low,T003,Task 003 of Highway Reconstruction Project 069,Pending,Eve,3,0,0.5
+P070,28/02/2024,23/06/2025,High,T001,Task 001 of Airport Expansion Project 070,In Progress,Alice,0,0,0.98
+P070,28/02/2024,27/09/2025,High,T002,Task 002 of Airport Expansion Project 070,In Progress,David,21,0,0.11
+P070,28/02/2024,01/04/2024,High,T003,Task 003 of Airport Expansion Project 070,Completed,Alice,26,7435,1
+P071,10/02/2024,18/02/2024,High,T001,Task 001 of Shopping Mall Renovation Project 071,Completed,Eve,32,8546,1
+P071,10/02/2024,19/02/2024,High,T002,Task 002 of Shopping Mall Renovation Project 071,In Progress,Eve,3,0,0.62
+P071,10/02/2024,17/02/2024,High,T003,Task 003 of Shopping Mall Renovation Project 071,Completed,Alice,10,6853,1
+P072,23/04/2024,27/05/2025,High,T001,Task 001 of University Dormitory Construction Project 072,In Progress,Frank,20,0,0.77
+P072,23/04/2024,26/05/2024,High,T002,Task 002 of University Dormitory Construction Project 072,Completed,Bob,29,7268,1
+P072,23/04/2024,09/06/2025,Medium,T003,Task 003 of University Dormitory Construction Project 072,Pending,Alice,0,0,0.36
+P073,06/05/2024,23/09/2024,Low,T001,Task 001 of Sports Stadium Upgrade Project 073,Completed,Alice,29,1411,1
+P073,06/05/2024,22/08/2024,High,T002,Task 002 of Sports Stadium Upgrade Project 073,Completed,Bob,24,8115,1
+P073,06/05/2024,14/09/2024,High,T003,Task 003 of Sports Stadium Upgrade Project 073,Completed,David,14,4586,1
+P074,21/05/2024,26/07/2024,High,T001,Task 001 of Public Library Renovation Project 074,Pending,Grace,13,0,0.74
+P074,21/05/2024,01/08/2024,High,T002,Task 002 of Public Library Renovation Project 074,Pending,Alice,8,0,0.18
+P074,21/05/2024,17/07/2024,High,T003,Task 003 of Public Library Renovation Project 074,In Progress,Charlie,39,0,0.05
+P075,11/05/2024,13/06/2024,Medium,T001,Task 001 of Building a Park Project 075,Completed,Ivy,11,12398,1
+P075,11/05/2024,12/09/2025,Medium,T002,Task 002 of Building a Park Project 075,Pending,Alice,11,0,0.26
+P075,11/05/2024,26/07/2025,Medium,T003,Task 003 of Building a Park Project 075,In Progress,Bob,0,0,0.29
+P076,11/07/2024,01/08/2024,High,T001,Task 001 of Renovation of a School Project 076,Pending,Bob,15,0,0.71
+P076,11/07/2024,11/08/2024,Medium,T002,Task 002 of Renovation of a School Project 076,Completed,Eve,19,899,1
+P076,11/07/2024,01/08/2024,High,T003,Task 003 of Renovation of a School Project 076,Pending,Eve,10,0,0.21
+P077,09/04/2024,07/02/2025,Medium,T001,Task 001 of Innovation of a Classroom Project 077,In Progress,Eve,2,0,0.85
+P077,09/04/2024,12/05/2024,High,T002,Task 002 of Innovation of a Classroom Project 077,Completed,Charlie,39,2841,1
+P077,09/04/2024,13/03/2025,Low,T003,Task 003 of Innovation of a Classroom Project 077,Pending,David,1,0,0.15
+P078,26/01/2024,19/04/2024,High,T001,Task 001 of Construction of a Hospital Wing Project 078,Completed,Alice,25,8416,1
+P078,26/01/2024,18/03/2024,High,T002,Task 002 of Construction of a Hospital Wing Project 078,In Progress,Grace,4,0,0.95
+P078,26/01/2024,09/04/2024,Medium,T003,Task 003 of Construction of a Hospital Wing Project 078,Completed,Alice,12,8486,1
+P079,22/04/2024,13/01/2025,High,T001,Task 001 of Road Expansion Project 079,In Progress,Grace,13,0,0.11
+P079,22/04/2024,15/03/2025,High,T002,Task 002 of Road Expansion Project 079,In Progress,Ivy,34,0,0.05
+P079,22/04/2024,25/05/2024,Medium,T003,Task 003 of Road Expansion Project 079,Completed,Charlie,13,9474,1
+P080,16/04/2024,09/07/2024,High,T001,Task 001 of Bridge Maintenance Project 080,Pending,Eve,13,0,0.7
+P080,16/04/2024,23/06/2024,Low,T002,Task 002 of Bridge Maintenance Project 080,In Progress,Grace,15,0,0.65
+P080,16/04/2024,06/07/2024,Medium,T003,Task 003 of Bridge Maintenance Project 080,Completed,Alice,27,8333,1
+P081,31/05/2024,04/01/2025,High,T001,Task 001 of Office Building Renovation Project 081,In Progress,Alice,26,0,0.08
+P081,31/05/2024,03/03/2025,Medium,T002,Task 002 of Office Building Renovation Project 081,In Progress,Frank,5,0,0.09
+P081,31/05/2024,03/07/2024,High,T003,Task 003 of Office Building Renovation Project 081,Completed,Ivy,5,5756,1
+P082,01/07/2024,12/03/2025,Medium,T001,Task 001 of Apartment Complex Development Project 082,In Progress,Ivy,4,0,0.47
+P082,01/07/2024,25/09/2024,Medium,T002,Task 002 of Apartment Complex Development Project 082,Completed,Grace,10,1878,1
+P082,01/07/2024,17/03/2025,High,T003,Task 003 of Apartment Complex Development Project 082,In Progress,Ivy,21,0,0.58
+P083,20/03/2024,05/06/2024,Medium,T001,Task 001 of Commercial Center Construction Project 083,Completed,Alice,24,8633,1
+P083,20/03/2024,25/05/2024,High,T002,Task 002 of Commercial Center Construction Project 083,Completed,Charlie,19,9196,1
+P083,20/03/2024,15/06/2024,High,T003,Task 003 of Commercial Center Construction Project 083,In Progress,Charlie,28,0,0.37
+P084,09/06/2024,08/05/2025,Low,T001,Task 001 of Highway Reconstruction Project 084,Pending,Charlie,17,0,0.54
+P084,09/06/2024,19/04/2025,Medium,T002,Task 002 of Highway Reconstruction Project 084,In Progress,Ivy,16,0,0.91
+P084,09/06/2024,25/03/2025,High,T003,Task 003 of Highway Reconstruction Project 084,Pending,Eve,14,0,0.2
+P085,03/08/2024,18/11/2024,Low,T001,Task 001 of Airport Expansion Project 085,Pending,Alice,17,0,0.02
+P085,03/08/2024,25/09/2024,High,T002,Task 002 of Airport Expansion Project 085,Completed,David,15,4572,1
+P085,03/08/2024,19/11/2024,High,T003,Task 003 of Airport Expansion Project 085,Pending,Alice,24,0,0.51
+P086,29/01/2024,10/12/2024,High,T001,Task 001 of Shopping Mall Renovation Project 086,In Progress,Eve,35,0,0.54
+P086,29/01/2024,25/09/2024,High,T002,Task 002 of Shopping Mall Renovation Project 086,Completed,Eve,6,7120,1
+P086,29/01/2024,17/10/2024,High,T003,Task 003 of Shopping Mall Renovation Project 086,Pending,Alice,19,0,0.25
+P087,17/02/2024,11/09/2025,High,T001,Task 001 of University Dormitory Construction Project 087,In Progress,Frank,8,0,0.06
+P087,17/02/2024,07/10/2025,Medium,T002,Task 002 of University Dormitory Construction Project 087,Pending,Bob,1,0,0.45
+P087,17/02/2024,06/10/2025,High,T003,Task 003 of University Dormitory Construction Project 087,In Progress,Alice,12,0,0.3
+P088,21/07/2024,13/02/2025,High,T001,Task 001 of Sports Stadium Upgrade Project 088,In Progress,Alice,16,0,0.29
+P088,21/07/2024,02/02/2025,Medium,T002,Task 002 of Sports Stadium Upgrade Project 088,Pending,Bob,30,0,0.48
+P088,21/07/2024,21/12/2024,High,T003,Task 003 of Sports Stadium Upgrade Project 088,In Progress,David,18,0,0.77
+P089,26/05/2024,06/05/2025,Medium,T001,Task 001 of Public Library Renovation Project 089,In Progress,Grace,17,0,0.75
+P089,26/05/2024,18/07/2025,High,T002,Task 002 of Public Library Renovation Project 089,In Progress,Alice,4,0,0.23
+P089,26/05/2024,28/06/2024,Medium,T003,Task 003 of Public Library Renovation Project 089,Completed,Charlie,34,8476,1
+P090,11/06/2024,14/07/2024,High,T001,Task 001 of Building a Park Project 090,Completed,Ivy,21,9031,1
+P090,11/06/2024,01/09/2025,Low,T002,Task 002 of Building a Park Project 090,In Progress,Alice,27,0,0.08
+P090,11/06/2024,21/10/2025,High,T003,Task 003 of Building a Park Project 090,In Progress,Bob,21,0,0.96
+P091,22/05/2024,24/06/2024,High,T001,Task 001 of Renovation of a School Project 091,Completed,Bob,23,7138,1
+P091,22/05/2024,13/03/2025,Medium,T002,Task 002 of Renovation of a School Project 091,Pending,Eve,22,0,0.92
+P091,22/05/2024,21/03/2025,Low,T003,Task 003 of Renovation of a School Project 091,Pending,Eve,33,0,0.64
+P092,03/03/2024,26/11/2024,Medium,T001,Task 001 of Innovation of a Classroom Project 092,Pending,Eve,22,0,0.04
+P092,03/03/2024,25/09/2024,Medium,T002,Task 002 of Innovation of a Classroom Project 092,Completed,Charlie,13,9485,1
+P092,03/03/2024,25/09/2024,High,T003,Task 003 of Innovation of a Classroom Project 092,Completed,David,11,5788,1
+P093,19/08/2024,21/09/2024,Low,T001,Task 001 of Construction of a Hospital Wing Project 093,Completed,Alice,40,3888,1
+P093,19/08/2024,19/04/2025,Low,T002,Task 002 of Construction of a Hospital Wing Project 093,In Progress,Grace,31,0,0.75
+P093,19/08/2024,21/09/2024,Low,T003,Task 003 of Construction of a Hospital Wing Project 093,Completed,Charlie,0,4148,1
+P094,28/06/2024,06/10/2024,High,T001,Task 001 of Road Expansion Project 094,In Progress,Grace,13,0,0.44
+P094,28/06/2024,29/09/2024,High,T002,Task 002 of Road Expansion Project 094,In Progress,Ivy,20,0,0.42
+P094,28/06/2024,23/09/2024,Medium,T003,Task 003 of Road Expansion Project 094,In Progress,Charlie,39,3357,0.37
+P095,17/02/2024,02/08/2024,Medium,T001,Task 001 of Bridge Maintenance Project 095,Pending,Eve,24,0,0.81
+P095,17/02/2024,29/06/2024,Low,T002,Task 002 of Bridge Maintenance Project 095,In Progress,Grace,34,0,0.97
+P095,17/02/2024,27/07/2024,High,T003,Task 003 of Bridge Maintenance Project 095,In Progress,Charlie,7,0,0.58
+P096,03/03/2024,06/05/2025,Low,T001,Task 001 of Office Building Renovation Project 096,Pending,Alice,17,0,0.69
+P096,03/03/2024,05/01/2025,Medium,T002,Task 002 of Office Building Renovation Project 096,In Progress,Frank,20,6060,0.08
+P096,03/03/2024,09/03/2025,High,T003,Task 003 of Office Building Renovation Project 096,Pending,Ivy,32,0,0.92
+P097,08/06/2024,08/12/2024,High,T001,Task 001 of Apartment Complex Development Project 097,Pending,Ivy,9,0,0.5
+P097,08/06/2024,08/03/2025,Medium,T002,Task 002 of Apartment Complex Development Project 097,Pending,Grace,17,0,0.2
+P097,08/06/2024,21/12/2024,High,T003,Task 003 of Apartment Complex Development Project 097,Pending,Ivy,32,0,0.66
+P098,15/08/2024,23/01/2025,Medium,T001,Task 001 of Commercial Center Construction Project 098,In Progress,Alice,12,0,0.67
+P098,15/08/2024,28/01/2025,Medium,T002,Task 002 of Commercial Center Construction Project 098,Pending,Charlie,25,0,0.83
+P098,15/08/2024,27/04/2025,High,T003,Task 003 of Commercial Center Construction Project 098,In Progress,Charlie,20,0,0.3
+P099,31/05/2024,22/12/2024,Medium,T001,Task 001 of Highway Reconstruction Project 099,Pending,Charlie,7,0,0.14
+P099,31/05/2024,01/03/2025,High,T002,Task 002 of Highway Reconstruction Project 099,Pending,Ivy,5,0,0.36
+P099,31/05/2024,11/03/2025,High,T003,Task 003 of Highway Reconstruction Project 099,Pending,Eve,19,0,0.91
+P100,08/08/2024,02/09/2024,Medium,T001,Task 001 of Airport Expansion Project 100,Pending,Charlie,30,0,0.85
+P100,08/08/2024,30/08/2024,Medium,T002,Task 002 of Airport Expansion Project 100,Pending,David,12,0,0.02
+P100,08/08/2024,30/08/2024,Medium,T003,Task 003 of Airport Expansion Project 100,In Progress,Alice,38,0,0.86
